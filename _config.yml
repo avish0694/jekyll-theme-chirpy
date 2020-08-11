@@ -8,15 +8,14 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Avish Cheetaram   # the main title
+title: Avish Cheetaram                          # the main title
 
 tagline: Iterate fast. Build. Fail. Improve. Repeat.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-Random thoughts on code, life, and the future!
-
+  Random thoughts on code, life, and the future.
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://avish.xyz'
+url: 'https://avish0694.github.io'
 
 author: Avish Cheetaram                  # change to your full name
 
@@ -30,7 +29,7 @@ twitter:
 
 social:
   name: Avish Cheetaram                  # it will shows as the copyright owner in Footer
-  email: avishcheetaram.ai@gmail.com            # change to your email address
+  email: avishcheetaram.ai@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Avishcybergeek      # change to your twitter homepage
